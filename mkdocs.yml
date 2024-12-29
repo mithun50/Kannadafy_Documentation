@@ -1,0 +1,28 @@
+site_name: Kannadafy Documentation
+site_description: Official documentation for the Kannadafy project.
+site_author: Mithun Gowda B, Manvanth
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Usage:
+      - CLI: cli.md
+      - Project_Usage: python_api.md
+  - How It Works: how_it_works.md
+  - Contributing: contributing.md
+  - Disclaimer: disclaimer.md
+  - FAQ: faq.md
+  - Contact: contact.md
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/mithun50/Kannadafy
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/traditional_tech_
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/mithun.gowda.b
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/_.appu_kannadiga
+    - icon: fontawesome/brands/python
+      link: https://pypi.org/projects/Kannadafy
